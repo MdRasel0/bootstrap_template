@@ -1,0 +1,22 @@
+.header , .hero, .body, .bar, .footer{
+	background-color: black;
+	margin-bottom: 5px;
+	border: 2px solid white;
+}
+.text{
+	color: white;
+	text-align: center;
+	
+}
+.box{
+	min-height: 100px;
+	background-color: teal;
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 5px;
+	border: 2px solid red;
+
+}
+.red{
+	background-color: red;
+}
